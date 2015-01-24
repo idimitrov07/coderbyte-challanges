@@ -1,1 +1,1 @@
-Solutions to coderbyte.com challenges I have been working on.
+coderbyte.com challenges I have been working on using JavaScript
